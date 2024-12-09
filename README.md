@@ -2,6 +2,23 @@
 
 Merupakan Tugas Akhir mata kuliah IF4012-Pengolahan Citra Digital di Program Studi Teknik Informatika, Fakultas Teknologi Industri, Institut Teknologi Sumatera.
 
-Metode: Image Processing() dan Deep Learning(CNN arsitektur VGG19)
+Spesies (Kelas Bung)
+*  Cekakak Belukar (Todiramphus chloris)
+*  Cekakak Sungai(Halcyon Smyrnensis)
+*  Murai batu (Copsychus malabaricus)
+*  Paok Hijau (Pitta Sordida)
+*  Prenjak Rawa (Prinia Flaviventris)
+
+Tahapan:
+
+*  Pengumpulan Data
+*  Data Processing (Image Processing: Cropping, Resizing, Image Sharpenig, Histogram Equalization)
+*  Split Data
+*  Data Augmentation
+*  Model CNN Arsitektur VGG19
+*  Performa Model (akurasi & loss)
+*  Evaluasi Model (akurasi, precision, recall, f1-score)
+*  Testing dengan gambar baru
+
 
 Data: Situs Online Flickr.com
