@@ -4,7 +4,7 @@
 
 Merupakan Tugas Akhir mata kuliah IF4012-Pengolahan Citra Digital di Program Studi Teknik Informatika, Fakultas Teknologi Industri, Institut Teknologi Sumatera.
 
-Spesies (Kelas Bung)
+Spesies (Kelas Burung)
 *  Cekakak Belukar (Todiramphus chloris)
 *  Cekakak Sungai(Halcyon Smyrnensis)
 *  Murai batu (Copsychus malabaricus)
