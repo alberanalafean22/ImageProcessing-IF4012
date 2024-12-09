@@ -23,4 +23,6 @@ Tahapan:
 *  Testing dengan gambar baru
 
 
-Data: Situs Online Flickr.com
+Data: Situs Online Flickr.com 
+
+Data Folder: https://drive.google.com/drive/folders/1Sp-HokxN1-Pw-zPUEPnHqcNCRBqx0lOt?usp=sharing 
