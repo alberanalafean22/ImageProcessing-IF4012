@@ -1,5 +1,6 @@
 # Implementasi CNN Arsitektur VGG-19 untuk Klasifikasi Burung di Sumatera
-![PCD](https://github.com/user-attachments/assets/cea79c06-695d-4012-b20d-8ae33149a190)
+
+![PCD](https://github.com/user-attachments/assets/3ccc7017-a7b2-4378-a07b-b750e5fdcde6)
 
 Merupakan Tugas Akhir mata kuliah IF4012-Pengolahan Citra Digital di Program Studi Teknik Informatika, Fakultas Teknologi Industri, Institut Teknologi Sumatera.
 
