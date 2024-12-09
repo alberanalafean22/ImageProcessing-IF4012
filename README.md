@@ -1,5 +1,7 @@
 # Implementasi CNN Arsitektur VGG-19 untuk Klasifikasi Burung di Sumatera
 
+![Uploading PCD.png…]()
+
 Merupakan Tugas Akhir mata kuliah IF4012-Pengolahan Citra Digital di Program Studi Teknik Informatika, Fakultas Teknologi Industri, Institut Teknologi Sumatera.
 
 Spesies (Kelas Bung)
